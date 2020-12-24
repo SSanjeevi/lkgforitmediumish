@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Options for creating a new site with Jekyll"
+title:  "Dependency Inversion Principle Interview Notes"
 author: john
-categories: [ Jekyll, tutorial ]
+categories: [ Dependency Inversion, Interview Notes ]
 image: assets/images/13.jpg
 ---
 ##

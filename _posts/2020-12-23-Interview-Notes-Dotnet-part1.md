@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Tree of Codes"
+title:  "Dot Net Interview Notes"
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [ Dot Net, Interview Notes ]
 image: assets/images/9.jpg
 ---
-**1.What is .NET?**
+**What is .NET?**
 
 NET is an integral part of many applications running on Windows and provides common functionality for those applications to run. This download is for people who need .NET to run an application on their computer. For developers, the .NET Framework provides a comprehensive and consistent programming model for building applications that have visually stunning user experiences and seamless and secure communication.
 

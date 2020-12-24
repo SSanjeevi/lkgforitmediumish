@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Press and education"
+title:  "Design Patterns Interview Notes"
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [ Design Patterns, Interview Notes ]
 image: assets/images/7.jpg
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Red Riding Hood"
+title:  "Entity Framework Interview Notes"
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [ Entity Framework, Interview Notes ]
 image: assets/images/1.jpg
 ---
 **Entity Framework**

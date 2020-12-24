@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "About Bundler"
+title:  "Dotnet part 3 Interview Notes"
 author: sal
-categories: [ Jekyll ]
+categories: [ Dotnet, Interview Notes ]
 image: assets/images/2.jpg
 rating: 3
 ---

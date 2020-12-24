@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "We all wait for summer"
+title:  "Dot Net Part 2 Interview Notes"
 author: john
-categories: [ Jekyll, tutorial ]
+categories: [ Dotnet, Interview Notes ]
 image: assets/images/5.jpg
 rating: .5
 ---

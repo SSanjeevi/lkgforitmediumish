@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Never stopped worrying or loving the bomb"
+title:  "C# Interview Notes"
 author: sal
-categories: [ Jekyll ]
+categories: [ Interview Notes, C# ]
 image: assets/images/14.jpg
 ---
 **C#:**

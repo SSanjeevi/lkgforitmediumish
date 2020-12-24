@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Let's test spoilers"
+title:  "AngularJS Interview Notes"
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [ Angularjs, Interview Notes ]
 image: assets/images/12.jpg
 featured: true
 hidden: true
