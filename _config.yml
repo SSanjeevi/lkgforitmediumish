@@ -2,7 +2,8 @@
 name: "LKG for IT"
 title: "LKG for IT"
 description: "Learning Kid for Information Technology Blog."
-logo: 'assets/images/logo.png'
+logo: 'assets/images/logofavicon.png'
+icon: 'assets/images/logo.png'
 favicon: 'assets/images/logofavicon.png'
 baseurl: ''
 google_analytics: 'G-7LPPM0LXN7'
