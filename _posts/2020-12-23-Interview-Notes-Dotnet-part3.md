@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dotnet part 3 Interview Notes"
-author: sal
+author: Sanjeevi Subramani
 categories: [ Dotnet, Interview Notes ]
 image: assets/images/2.jpg
 rating: 3

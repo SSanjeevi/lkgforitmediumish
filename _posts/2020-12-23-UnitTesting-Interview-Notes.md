@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Unit Test Interview Notes"
-author: sal
+author: Sanjeevi Subramani
 categories: [ Unit Test, Interview Notes ]
 image: assets/images/17.jpg
 ---

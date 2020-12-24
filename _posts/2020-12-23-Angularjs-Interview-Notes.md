@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AngularJS Interview Notes"
-author: sal
+author: Sanjeevi Subramani
 categories: [ Angularjs, Interview Notes ]
 image: assets/images/12.jpg
 featured: true

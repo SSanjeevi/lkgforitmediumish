@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "WCF Interview Notes"
-author: sal
+author: Sanjeevi Subramani
 categories: [ WCF, Interview Notes ]
 image: assets/images/16.jpg
 ---
