@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Entity Framework Interview Notes"
-author: Sanjeevi Subramani
+author: "Sanjeevi Subramani"
 categories: [ Entity Framework, Interview Notes ]
 image: assets/images/1.jpg
 ---

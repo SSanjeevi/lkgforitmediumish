@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dot Net Interview Notes"
-author: Sanjeevi Subramani
+author: "Sanjeevi Subramani"
 categories: [ Dot Net, Interview Notes ]
 image: assets/images/9.jpg
 ---

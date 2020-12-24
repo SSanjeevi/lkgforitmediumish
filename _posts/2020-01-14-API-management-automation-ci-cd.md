@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: 
-author: Sanjeevi Subramani
+author: "Sanjeevi Subramani"
 categories: [API Management, Azure]
 title: Azure API Management deployment using Azure Devops CI-CD Pipeline using ARM templates and Yaml file
 ---

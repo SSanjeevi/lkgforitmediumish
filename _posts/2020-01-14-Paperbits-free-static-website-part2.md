@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: 
-author: Sanjeevi Subramani
+author: "Sanjeevi Subramani"
 categories: [Paperbits]
 title: How to use Paperbits Open source Drag and drop Content builder and free static website generator to develop a website and host it in GitHub pages freely — Part II (Detailed steps)
 ---

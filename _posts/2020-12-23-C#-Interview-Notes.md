@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "C# Interview Notes"
-author: Sanjeevi Subramani
+author: "Sanjeevi Subramani"
 categories: [ Interview Notes, C# ]
 image: assets/images/14.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dot Net Part 2 Interview Notes"
-author: john
+author: "Sanjeevi Subramani"
 categories: [ Dotnet, Interview Notes ]
 image: assets/images/5.jpg
 rating: .5

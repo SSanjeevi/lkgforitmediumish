@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-author: Sanjeevi Subramani
+author: "Sanjeevi Subramani"
 description: 
 categories: [DotnetCore, Troubleshooting]
 title: Troubleshooting by writing logs at the application start for .NET core app using Serilog

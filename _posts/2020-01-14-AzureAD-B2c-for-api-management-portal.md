@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: 
-author: Sanjeevi Subramani
+author: "Sanjeevi Subramani"
 categories: [Azure AD, Azure]
 title: Azure AD B2C setup for API Management Developer portal
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SQL Interview Notes"
-author: john
+author: "Sanjeevi Subramani"
 categories: [ SQL, Interview Notes ]
 image: assets/images/3.jpg
 beforetoc: "SQL is Structured Query Language, which is a computer language for storing, manipulating and retrieving data stored in a relational database."

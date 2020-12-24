@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dependency Inversion Principle Interview Notes"
-author: john
+author: "Sanjeevi Subramani"
 categories: [ Dependency Inversion, Interview Notes ]
 image: assets/images/13.jpg
 ---

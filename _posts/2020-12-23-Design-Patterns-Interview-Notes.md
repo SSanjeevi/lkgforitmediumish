@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Design Patterns Interview Notes"
-author: Sanjeevi Subramani
+author: "Sanjeevi Subramani"
 categories: [ Design Patterns, Interview Notes ]
 image: assets/images/7.jpg
 ---

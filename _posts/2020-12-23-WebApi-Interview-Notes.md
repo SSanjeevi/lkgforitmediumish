@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ASP.NET WebApi Interview Notes"
-author: Sanjeevi Subramani
+author: "Sanjeevi Subramani"
 categories: [ ASP.NET WebApi, Interview Notes ]
 image: assets/images/16.jpg
 ---
